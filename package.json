@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Weryth/Airtable-tilda-api-2/issues"
   },
-  "homepage": "https://github.com/Weryth/Airtable-tilda-api-2#readme"
+  "homepage": "https://github.com/Weryth/Airtable-tilda-api-2#readme",
+  "dependencies": {
+    "airtable": "^0.11.6",
+    "dotenv": "^16.0.3",
+    "Express": "^3.0.1"
+  }
 }
